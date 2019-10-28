@@ -1,0 +1,31 @@
+*body{
+    font-family: sans-serif;
+    
+   
+}
+h1,h2{
+    text-align: center;
+    
+}
+pre{
+    font-family: sans-serif;
+    font-size: 19px;
+}
+
+.tag{
+    background-color: gainsboro;
+    color: crimson;
+}
+.example{
+    background-color: gainsboro;
+    color: firebrick;
+}
+
+#black{
+    color: black
+}
+span.end{
+    background-color: gainsboro;
+    color: gray
+    
+}

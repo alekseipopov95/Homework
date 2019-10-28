@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+h5{
+    color: gray;
+    font-size: 20PX;
+}
+p{
+    line-height: 0.7
+}
