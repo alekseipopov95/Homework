@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+
+}
+dl{
+    background-color:rgba(204, 204, 204, 0.2);
+}
+#bracket{
+    opacity: 0.5
+}
+#col{
+    color: darkblue
+}
+h5{
+    font-weight: 800;
+    font-size: 20px;
+}
+li{
+    margin-left: 40px;
+    line-height: 35px
+}
+#syn{
+    margin-left: 43px;
+    line-height: 30px
+}

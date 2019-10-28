@@ -1,0 +1,21 @@
+body{
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
+span{
+    background-color: maroon;
+    padding: 10px 20px;
+    margin-left: 5px;
+}
+ol{
+    background-color: rgba(238, 13 ,133, 0.350);
+    padding: 20px;
+    margin: 0;
+}
+li{
+    background-color: rgba(211, 86, 86, 0.616);
+    margin: 10px;
+    padding: 10px 15px;
+    list-style-position: inside;
+}
